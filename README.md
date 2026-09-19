@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,I'm Monalisa Sahoo</h1>
 <h3 align="center">A second-year BTech CSE(AI)student|Data Science & AI/ML Enthusiast</h3>
-<img align="right" alt="coding" width="400"src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a20e0c15-91bd-4200-9eb9-fa74fb38351e" />
-"
+<img align="right" alt="coding" width="400"src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2c009fdb-5642-4efe-abde-82a6203309ab" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisa024&label=Profile%20views&color=0e75b6&style=flat" alt="monalisa024" /> </p>
 
