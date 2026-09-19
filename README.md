@@ -41,7 +41,6 @@ Focus    : ML . DL . NLP . LLM . RAG . Generative AI
   <img src="https://img.shields.io/badge/DBMS-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Operating%20Systems-0078D6?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=flat-square" />
 </p>
 
 ## 🛠️ Developer Tools
@@ -53,7 +52,7 @@ Focus    : ML . DL . NLP . LLM . RAG . Generative AI
   <img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <p>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -63,7 +62,6 @@ Focus    : ML . DL . NLP . LLM . RAG . Generative AI
 
 ---
 ## 🎓 Education
-
 <table>
 <tr>
 <td>🏛️</td>
@@ -71,7 +69,7 @@ Focus    : ML . DL . NLP . LLM . RAG . Generative AI
 </tr>
 <tr>
 <td>📚</td>
-<td><strong>Class XII — Science Stream(PCM)</strong><br/>Hi-Tech Higher Secondary School &nbsp;|&nbsp; 2021–2023</td>
+<td><strong>Class XII — Science Stream (PCM)</strong><br/>Hi-Tech Higher Secondary School &nbsp;|&nbsp; 2021–2023</td>
 </tr>
 </table>
 ---
