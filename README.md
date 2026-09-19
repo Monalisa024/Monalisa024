@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Header Banner with wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:9370DB,100:00BFFF&height=200&section=header&text=Monalisa%20Sahoo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18">
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent++Generative+AI+Developer;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
 <h1 align="center">Hi👋,I'm Monalisa Sahoo</h1>
 <h3 align="center">A final year BTech CSE(AI)student|Data Science & AI/ML Enthusiast</h3>
 
